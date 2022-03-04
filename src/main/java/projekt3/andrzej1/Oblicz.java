@@ -5,5 +5,7 @@ public class Oblicz {
         System.out.println("Kolejna klasa");
         System.out.println("Kolejna klasa 2");
         System.out.println("Kolejna klasa 3");
+        System.out.println("Kolejna klasa 4");
+        System.out.println("Kolejna klasa 5");
     }
 }
