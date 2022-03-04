@@ -1,7 +1,7 @@
-poniedziałek
+﻿poniedziałek
 wtorek
 środa
 czwartek
-piątek
+piątek, już za chwilę weekend
 sobota
 niedziela
